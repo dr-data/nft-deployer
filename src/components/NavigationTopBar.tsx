@@ -59,7 +59,7 @@ const NavigationTopBar = (props: PropsFromRedux & RouteComponentProps) => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            <span style={{cursor: 'pointer'}} onClick={() => history.push('/')}>NFT Deployer</span>
+            <span style={{cursor: 'pointer'}} onClick={() => history.push('/')}>NFT Deployer by Dr. Data NG</span>
           </Typography>
           {account ? (
             <Button color="secondary" variant="contained" onClick={() => deactivate()}>Disconnect</Button>
