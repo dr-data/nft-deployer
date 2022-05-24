@@ -20,12 +20,12 @@ const navigationMenu = [
 		icon: <HomeIcon />
 	},
   {
-		text: 'Deploy',
+		text: 'Deploy Smart Contract',
 		path: '/deploy',
 		icon: <DeployIcon />
 	},
   {
-		text: 'Mint',
+		text: 'Mint NFT',
 		path: '/mint',
 		icon: <MintIcon />
 	},
