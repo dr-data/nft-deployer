@@ -88,7 +88,7 @@ const HomePage = (props: RouteComponentProps) => {
                                         </Typography>
                                         <DeployIcon style={{width: '100px', height: '120px'}}/>
                                         <Typography variant="h5" component="h2">
-                                            Deploy
+                                            Deploy Smart Contract (ERC721)
                                         </Typography>
                                     </CardContent>
                                 </CardActionArea>
@@ -103,7 +103,7 @@ const HomePage = (props: RouteComponentProps) => {
                                         </Typography>
                                         <MintIcon style={{width: '100px', height: '120px'}}/>
                                         <Typography variant="h5" component="h2">
-                                            Mint
+                                            Mint NFT
                                         </Typography>
                                     </CardContent>
                                 </CardActionArea>
